@@ -1,4 +1,4 @@
-I am covering top 100 fundamental questions of python
+I am covering here most asked basic fundamental questions of python
 
 Positive or Negative number: 
 Even or Odd number:
